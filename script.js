@@ -1,3 +1,3 @@
 function finalizarsessao(){
-	location.href = '/Projetos/Caixa Mercado/login/login.html';
+	location.href = '/Login/login.html';
 }
